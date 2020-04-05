@@ -1,7 +1,5 @@
 
-
-
-lect 3&4 
+#### lect 3&4 
 
 idea1: Elimination ~ Permutation ~ LU ~ SVD
 
@@ -9,6 +7,7 @@ idea2: amuted matrix ~ inverse matrix (O(n^3)) (lect 3&4 ~ lect10 ~ lect20)
 
 difference between Guass&Jordan's ideas
 
+#### lect9-11
 
 idea3: rank r ~ biases ~ lect9
 
