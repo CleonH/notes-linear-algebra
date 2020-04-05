@@ -42,3 +42,8 @@ Determination /adjoint matrix / Algebraic cofactor/
 
 eigenValue/eigenVecotr; diagonalization
 
+
+
+#### lect 26-29
+
+symmetric & sypositive define, Simularity, Jordan  ??二次型
