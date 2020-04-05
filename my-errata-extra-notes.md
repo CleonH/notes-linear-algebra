@@ -8,7 +8,7 @@ Matrix ~ Multivariate equations ~ Elimination ~ Column & Row Space
 ---
 #### lect 3&4 
 
-idea1: Elimination ~ Permutation ~ LU ~  QR ~ SVD
+idea1: Elimination ~ Permutation ~ LU 
 
 idea2: Inverse Matirx / Determination
 
