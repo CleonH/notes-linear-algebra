@@ -5,11 +5,15 @@ Matrix ~ Multivariate equations ~ Elimination ~ Column & Row Space ~ biases & Di
 ```
 #### lect 3&4 
 
-idea1: Elimination ~ Permutation ~ LU ~ SVD
+idea1: Elimination ~ Permutation ~ LU ~  QR ~ SVD
 
-idea2: amuted matrix ~ inverse matrix (O(n^3)) (lect 3&4 ~ lect10 ~ lect20) 
+idea2: Inverse Matirx / Determination
 
-difference between Guass&Jordan's ideas
+(lect 3&4,10) amuted matrix ~ inverse matrix , Guass-Jordan's ideas(O((n^3)/3)
+
+(lect 18-20, O(?)) inverse matrix -> Determination(Volumn), Q:Best programming algorithms for Det?
+
+
 
 #### lect 9-11
 
