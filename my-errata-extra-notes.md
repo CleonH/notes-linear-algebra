@@ -34,6 +34,11 @@ errta:lect 11 interaction union combination
 LU / QR / SVD / ***Gram-Schmidt's ideas***
 
 
+#### lect 18-20
 
+Determination /adjoint matrix / Algebraic cofactor/
 
+#### lect 21-22
+
+eigenValue/eigenVecotr; diagonalization
 
