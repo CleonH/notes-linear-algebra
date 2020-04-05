@@ -11,7 +11,7 @@ idea2: Inverse Matirx / Determination
 
 (lect 3&4,10) amuted matrix ~ inverse matrix , Guass-Jordan's ideas(O((n^3)/3)
 
-(lect 18-20) inverse matrix -> Determination(Volumn), Q:Best programming algorithms for Det?,O(?)
+(lect 18-20) inverse matrix -> Determination(Volume), Q:Best programming algorithms for Det?,O(?)
 
 
 
