@@ -9,10 +9,14 @@ idea1: Elimination ~ Permutation ~ LU ~  QR ~ SVD
 
 idea2: Inverse Matirx / Determination
 
-(lect 3&4,10) amuted matrix ~ inverse matrix , Guass-Jordan's ideas(O((n^3)/3)
-
+(lect 3&4,10) amuted matrix ~ inverse matrix , ***Guass-Jordan's ideas*** (O((n^3)/3)
+```
+E [A | I] --> [EA | EI] --> [I | A^(-1)]
+```
 (lect 18-20) inverse matrix -> Determination(Volume), Q:Best programming algorithms for Det?,O(?)
-
+```
+A^(-1) = 1/detA * C^(t)
+```
 
 
 #### lect 9-11
@@ -25,6 +29,9 @@ Q&A: non-square matrix means to map vectors to another dimension, (nxm)(mxl)->(n
 errta:lect 11 interaction union combination
 ```
 
+#### lect 14-17
+
+LU / QR / SVD / ***Gram-Schmidt's ideas***
 
 
 
