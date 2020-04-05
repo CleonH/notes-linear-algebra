@@ -15,7 +15,7 @@ difference between Guass&Jordan's ideas
 
 idea3: rank r ~ biases ->  rank1 matrix(least pieces) -> vector space 
 
-Q&A: non-square matrix means to map vectors(nxm) to another dimension(mxl), get (nxl)
+Q&A: non-square matrix means to map vectors to another dimension, (nxm)(mxl)->(nxl)
 
 ```
 errta:lect 11 interaction union combination
